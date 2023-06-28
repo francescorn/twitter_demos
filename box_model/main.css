@@ -1,0 +1,68 @@
+.box {
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    margin: 10px;
+    vertical-align: middle;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.none {
+    background: aquamarine;
+    border: blueviolet none;
+}
+
+.dotted {
+    background: aqua;
+    border: fuchsia dotted;
+}
+
+.dashed {
+    background: lavenderblush;
+    border: lavender dashed;
+}
+
+.solid {
+    background: orchid;
+    border: orangered solid;
+}
+
+.double {
+    background: lemonchiffon;
+    border: lightskyblue double;
+}
+
+.groove {
+    background: slategray;
+    border: steelblue groove;
+}
+
+.ridge {
+    background: lawngreen;
+    border: lightgoldenrodyellow ridge;
+}
+
+.inset {
+    background: darkcyan;
+    border: darkmagenta inset;
+}
+
+.outset {
+    background: deepskyblue;
+    border: deeppink outset;
+}
+
+.thin {
+    background: palegoldenrod;
+    border: silver small;
+}
+
+.medium {
+    background: salmon;
+    border: saddlebrown outset;
+}
+
+.thick {
+    background: olivedrab;
+    border: palevioletred outset;
+}
